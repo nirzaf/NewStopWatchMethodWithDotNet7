@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewStopWatchWithDotNet7", "NewStopWatchWithDotNet7\NewStopWatchWithDotNet7.csproj", "{FE539698-4CD0-46CC-AA1F-5D0C63F830CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE539698-4CD0-46CC-AA1F-5D0C63F830CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE539698-4CD0-46CC-AA1F-5D0C63F830CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE539698-4CD0-46CC-AA1F-5D0C63F830CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE539698-4CD0-46CC-AA1F-5D0C63F830CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
